@@ -13,6 +13,9 @@ A powerful Streamlit app for generating professional product ads using Bria AI's
 - 🎮 Intuitive UI controls
 - 💾 Easy image download
 
+## Live Demo
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://buvznd38zy7fxb7kyvenn2.streamlit.app/)
+
 ## 🚀 Quick Start
 
 1. Clone the repository:
